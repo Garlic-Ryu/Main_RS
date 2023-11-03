@@ -28,4 +28,5 @@ print(dataset.keys())
 -> dict_keys(['train', 'test']): 딕셔너리 형태의 데이터
 ![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/049211d5-539d-4253-b959-a620ddf20751)
 
-
+# 현재 파일 문제
+실행이 안됨 (리소스)

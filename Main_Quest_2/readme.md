@@ -30,3 +30,13 @@ print(dataset.keys())
 
 # 현재 파일 문제
 실행이 안됨 (리소스)
+--------------------------------------------
+저녁
+10번 에포크
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/483faf15-03a7-4d5f-b81d-0eae617594ea)
+40번 에포크
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/c7170967-0ab3-40e6-ba34-18ee5ddae4e2)
+70번 에포크
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/21b6d123-fc75-47d6-bc21-3822cd8b9a0c)
+
+이후 loss 함수 변경 (이전에는 'categorical_crossentropy')

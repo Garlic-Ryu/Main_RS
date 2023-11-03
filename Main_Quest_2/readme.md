@@ -1,3 +1,4 @@
+# 참고 - 기존 파일 삭제
 문제 - 구글 드라이브 파일을 다음 코드를 통해 연동시켜서 진행하려고 했으나 인식이 되지 않음.
 from google.colab import drive
 drive.mount('/content/drive', force_remount=True) 
@@ -26,6 +27,5 @@ drive.mount('/content/drive', force_remount=True)
 print(dataset.keys())
 -> dict_keys(['train', 'test']): 딕셔너리 형태의 데이터
 ![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/049211d5-539d-4253-b959-a620ddf20751)
-
 
 

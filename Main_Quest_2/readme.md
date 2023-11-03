@@ -40,3 +40,4 @@ print(dataset.keys())
 ![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/21b6d123-fc75-47d6-bc21-3822cd8b9a0c)
 
 이후 loss 함수 변경 (이전에는 'categorical_crossentropy')
+https://blog.naver.com/PostView.nhn?blogId=siniphia&logNo=221972407157 참고

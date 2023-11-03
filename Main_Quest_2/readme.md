@@ -54,6 +54,9 @@ https://blog.naver.com/PostView.nhn?blogId=siniphia&logNo=221972407157 참고
 +30번 에포크
 ![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/2a318b64-f4ed-4903-9fe7-b7d2cf2b561f)
 
+Tensorboard
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/e3114a63-eb15-47b7-802a-a704d6d38d5f)
+
 
 
 

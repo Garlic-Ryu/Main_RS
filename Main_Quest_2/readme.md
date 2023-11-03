@@ -7,4 +7,4 @@ drive.mount('/content/drive', force_remount=True)
 ![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/c6979407-2f6b-4da6-95a6-2cae87c440db)
 여기에서는 찾지 못함
 
-
+우선 시간 내 제출해야 해서 이 상태로 제출하지만, 오늘 계속 코드 수정하겠습니다

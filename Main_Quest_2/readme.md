@@ -8,3 +8,18 @@ drive.mount('/content/drive', force_remount=True)
 여기에서는 찾지 못함
 
 우선 시간 내 제출해야 해서 이 상태로 제출하지만, 오늘 계속 코드 수정하겠습니다
+
+# 공부
+## 1. 비교 (참고 https://junstar92.tistory.com/151)
+
+데이터 비교 
+과제 - https://www.kaggle.com/datasets/sadhliroomyprime/motorcycle-night-ride-semantic-segmentation
+원본 데이터, __fuse, __save 
+→ ⓐ __fuse 파일이랑 __save 파일은 왜 따로 있는거지???
+→ ⓑ 초기에 fuse 파일만 masking된 파일로 사용하려고 별도의 폴더로 파일을 분리해서 사용하려하는 과정에서 시간 많이 소모
+→ ⓒ 그러나 구글 드라이브와 연결 시 왜 인식을 못했는지는 아직도 잘 모르겠음
+
+블로그 - https://academictorrents.com/details/b18bbd9ba03d50b0f7f479acc9f4228a408cecc1
+print(dataset.keys())
+-> dict_keys(['train', 'test']): 딕셔너리 형태의 데이
+

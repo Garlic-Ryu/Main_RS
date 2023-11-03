@@ -39,5 +39,21 @@ print(dataset.keys())
 70번 에포크
 ![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/21b6d123-fc75-47d6-bc21-3822cd8b9a0c)
 
-이후 loss 함수 변경 (이전에는 'categorical_crossentropy')
+이후 초기화하고, loss 함수 변경 (이전에는 'categorical_crossentropy')
 https://blog.naver.com/PostView.nhn?blogId=siniphia&logNo=221972407157 참고
+30번 에포크
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/8ec00d99-b79a-41ce-bafa-c4547b136fe8)
+60번 에포크
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/1ae411ef-05b0-4e6a-8106-a8715d91a782)
+90번 에포크 
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/0bf6c0fe-17fd-424b-8fc0-0a7636a667a0)
+
+이후 batch_size 16에서 (24로 변경하려다 안돌아가서) 20으로 변경
++30번 에포크
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/9b0be408-c744-4c39-9586-c3200846a22f)
++30번 에포크
+![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/2a318b64-f4ed-4903-9fe7-b7d2cf2b561f)
+
+
+
+

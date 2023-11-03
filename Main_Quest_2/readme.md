@@ -58,5 +58,7 @@ Tensorboard
 ![image](https://github.com/Garlic-Ryu/Main_RS/assets/112372749/e3114a63-eb15-47b7-802a-a704d6d38d5f)
 
 
+언젠간 읽어보기
+"Semantic Segmentation with Transfer Learning for Off-Road Autonomous Driving"
 
 
